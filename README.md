@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omaranBazna
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React js
+- 🌱 I’m full stack developer (MERN STACK)
 - 💞️ I’m looking to collaborate on Open Projects
 - 📫 How to reach me LinkedIn:https://www.linkedin.com/in/omaran-bazna-64234b102/
 
